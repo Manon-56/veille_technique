@@ -1,0 +1,7 @@
+path: data_yolo
+train: images/train
+val: images/validation
+test: images/test
+
+nc: 1
+names: ['object']

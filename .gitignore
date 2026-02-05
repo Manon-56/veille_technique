@@ -13,3 +13,7 @@ wheels/
 *.docx
 *.odt
 data_yolo/
+runs/
+*.jpg
+*.pt 
+
