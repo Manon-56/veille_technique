@@ -1,0 +1,8 @@
+dataset:
+  format: coco
+  train:
+    image_dir: data_yolo/images/train
+    annotation_file: data_coco_train.json
+  val:
+    image_dir: data_yolo/images/validation
+    annotation_file: data_coco_validation.json

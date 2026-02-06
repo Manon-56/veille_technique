@@ -1,4 +1,4 @@
-path: data_yolo
+path: SKU110k
 train: images/train
 val: images/validation
 test: images/test

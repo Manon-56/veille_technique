@@ -12,8 +12,10 @@ wheels/
 # Other documents
 *.docx
 *.odt
-data_yolo/
+SKU110k/
 runs/
 *.jpg
 *.pt 
+*.pth  
+*.env  
 
